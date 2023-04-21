@@ -3,6 +3,15 @@
 A project which uses machine learning to check if the person is more likely to recieve the Loan that he/she receives, We trained our model on variety of dataset showing different kind of people with various status and likeness to return the Loan and our model understood the pattern of the Data on which we have used it to build a simple webapp with flask to show the process
 
 
+Team Leader:https://trailblazer.me/id/yuvaraj37
+Team Members : https://trailblazer.me/id/rad46
+Team Members: https://trailblazer.me/id/niveb7
+Team Members: https://trailblazer.me/id/ssankar227
+Team Members: https://trailblazer.me/id/rgopal101
+
+
+
+
 
 A Classification Problem which predicts if a loan will get approved or not.
 
